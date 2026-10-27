@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RoomSpawner
+  - Rooms
+  - isARoom
+  - end
+  - Enemy
+  - Bullet
+  - walls
+  - enemyBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3206343555
+    locked: 0
+  - name: Stuff
+    uniqueID: 836477073
+    locked: 0
+  - name: bullet
+    uniqueID: 2394899415
+    locked: 0
+  - name: Player
+    uniqueID: 1087584521
+    locked: 0
+  - name: environment
+    uniqueID: 3973945707
+    locked: 0
+  - name: Main walls ground
+    uniqueID: 2600667573
+    locked: 0
